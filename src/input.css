@@ -11,7 +11,7 @@ body {
 }
 
 .hamburger-active > span:nth-child(1) {
-  @apply t rotate-45;
+  @apply rotate-45;
 }
 
 .hamburger-active > span:nth-child(2) {
